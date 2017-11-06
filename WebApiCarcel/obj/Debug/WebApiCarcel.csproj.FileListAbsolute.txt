@@ -1,0 +1,99 @@
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\ApplicationInsights.config
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\roslyn\csc.exe
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\roslyn\System.Collections.Immutable.dll
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\roslyn\vbc.exe
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\roslyn\VBCSCompiler.exe
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\roslyn\VBCSCompiler.exe.config
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\WebApiCarcel.dll.config
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\WebApiCarcel.dll
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\WebApiCarcel.pdb
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\EntityFramework.dll
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\EntityFramework.SqlServer.dll
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\Microsoft.AI.Web.dll
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\Microsoft.AI.WindowsServer.dll
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\Microsoft.ApplicationInsights.dll
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\Newtonsoft.Json.dll
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\System.Net.Http.Formatting.dll
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\System.Web.Http.dll
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\System.Web.Http.WebHost.dll
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\EntityFramework.xml
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\EntityFramework.SqlServer.xml
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\Microsoft.AI.Web.xml
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\Microsoft.AI.WindowsServer.xml
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\Microsoft.ApplicationInsights.xml
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\Newtonsoft.Json.xml
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\System.Net.Http.Formatting.xml
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\System.Web.Http.xml
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\System.Web.Http.WebHost.xml
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\es\System.Net.Http.Formatting.resources.dll
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\es\System.Web.Http.resources.dll
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\bin\es\System.Web.Http.WebHost.resources.dll
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\obj\Debug\WebApiCarcel.csprojResolveAssemblyReference.cache
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\obj\Debug\WebApiCarcel.dll
+c:\users\lc1300xxxx\documents\visual studio 2015\Projects\Solucion WebApiCarcel\WebApiCarcel\obj\Debug\WebApiCarcel.pdb
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\ApplicationInsights.config
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\roslyn\csc.exe
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\roslyn\vbc.exe
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\roslyn\VBCSCompiler.exe
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\WebApiCarcel.dll.config
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\WebApiCarcel.dll
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\WebApiCarcel.pdb
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\EntityFramework.dll
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\Microsoft.AI.Web.dll
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\Microsoft.ApplicationInsights.dll
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\Newtonsoft.Json.dll
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\System.Net.Http.Formatting.dll
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\System.Web.Http.dll
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\System.Web.Http.WebHost.dll
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\EntityFramework.xml
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\Microsoft.AI.Web.xml
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\Microsoft.ApplicationInsights.xml
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\Newtonsoft.Json.xml
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\System.Net.Http.Formatting.xml
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\System.Web.Http.xml
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\System.Web.Http.WebHost.xml
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\es\System.Web.Http.resources.dll
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\obj\Debug\WebApiCarcel.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\obj\Debug\WebApiCarcel.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\obj\Debug\WebApiCarcel.dll
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\obj\Debug\WebApiCarcel.pdb
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\obj\Debug\WebApiCarcel.Migrations.primeraMigracion.resources
+C:\Users\usuario\Desktop\Solucion WebApiCarcel\WebApiCarcel\obj\Debug\WebApiCarcel.csproj.GenerateResource.Cache
